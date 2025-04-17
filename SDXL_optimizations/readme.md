@@ -5,5 +5,5 @@ This repository contains code and resources for optimizing Stable Diffusion XL (
 ## Key Features
 
 * **SDXL Model Quantization:** Scripts and notebooks demonstrating various quantization techniques to reduce the memory footprint of full SDXL models.
-    * using `llama.cpp` to GGUF format. 
-* **LoRA Compression:** Tools and examples for compressing LoRA (Low-Rank Adaptation) models. T
+    * using `llama.cpp` to convert models to quantized GGUF formats. 
+* **LoRA Compression:** Tools and examples for compressing LoRA (Low-Rank Adaptation) models. 
